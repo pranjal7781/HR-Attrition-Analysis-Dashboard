@@ -33,8 +33,7 @@ Employee attrition can increase recruitment costs, reduce productivity, and impa
 * R&D department contributes the largest share of attrition.
 
 ## Dashboard Preview
-
-(Add dashboard screenshot here)
+<img width="1322" height="741" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/4dd54f68-67fd-4ab7-819c-ced3613e8eba" />
 
 ## Files Included
 
@@ -44,5 +43,5 @@ Employee attrition can increase recruitment costs, reduce productivity, and impa
 
 ## Author
 
-Pranjal Saxena
-Aspiring Data Analyst | SQL | Python | Power BI
+Pranjal Saxena 
+Data Analyst | SQL | Python | Power BI
