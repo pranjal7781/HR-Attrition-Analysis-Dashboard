@@ -4,7 +4,7 @@
 
 This Power BI dashboard analyzes employee attrition patterns and workforce demographics to help HR teams identify key factors contributing to employee turnover and improve retention strategies.
 
-## Business Problem
+## Business Problem 
 
 Employee attrition can increase recruitment costs, reduce productivity, and impact organizational performance. The goal of this dashboard is to identify trends and patterns behind employee turnover.
 
